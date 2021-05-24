@@ -8,6 +8,7 @@
     tools:context=".home.HomeFragment">
 
     <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_movie"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:clipToPadding="false"
@@ -19,6 +20,7 @@
         tools:listitem="@layout/list_item_row"/>
 
     <ProgressBar
+        android:id="@+id/progress_bar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -27,6 +29,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <include
+        android:id="@+id/view_error"
         layout="@layout/view_error"
         android:visibility="gone"
         app:layout_constraintBottom_toBottomOf="parent"
