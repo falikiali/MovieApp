@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="movie">Movie List</string>
+    <string name="fav_movie">List Favorite Movie</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="something_wrong">Something Wrong</string>
+    <string name="empty_data">Data is Empty</string>
+    <string name="release_date">Release Date :</string>
+    <string name="desc">Description</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="splash_text">Created By Ali Faliki</string>
+</resources>
