@@ -19,6 +19,9 @@ buildscript {
         roomRuntimeVersion = '2.3.0'
         lifecycleVersion = "2.2.0"
         koin_version = "2.1.6"
+        leakCanaryVersion = "2.6"
+        sqlChipherVersion = "4.4.0"
+        sqlLiteVersion = "2.1.0"
     }
 
     repositories {
