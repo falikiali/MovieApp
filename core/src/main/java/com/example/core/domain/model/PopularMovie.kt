@@ -5,7 +5,7 @@ import kotlinx.parcelize.Parcelize
 
 @Parcelize
 data class PopularMovie(
-    val movieId: Int,
+    @JvmField val movieId: Int,
     val title: String,
     val poster: String,
     val releaseDate: String,
