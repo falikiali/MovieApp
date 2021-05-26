@@ -9,4 +9,8 @@
     <string name="desc">Description</string>
     <string name="title_favorite">Favorite</string>
     <string name="splash_text">Created By Ali Faliki</string>
+    <string name="fab">Floationg Action Button</string>
+    <string name="splash">Logo Movie Application</string>
+    <string name="empty">Empty</string>
+    <string name="error">Error</string>
 </resources>
