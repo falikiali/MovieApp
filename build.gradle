@@ -15,9 +15,9 @@ buildscript {
         retrofitVersion = '2.9.0'
         okhttpVersion = '4.9.0'
         navigationVersion = '2.3.5'
-        roomVersion = '2.2.3'
+        roomVersion = '2.3.0'
         roomRuntimeVersion = '2.3.0'
-        lifecycleVersion = "2.2.0"
+        lifecycleVersion = "2.3.1"
         koin_version = "2.1.6"
         leakCanaryVersion = "2.6"
         sqlChipherVersion = "4.4.0"
